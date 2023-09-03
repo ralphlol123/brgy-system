@@ -1,6 +1,6 @@
 <template>
     <div>
-        hello po
+        hello
     </div>
 </template>
 
